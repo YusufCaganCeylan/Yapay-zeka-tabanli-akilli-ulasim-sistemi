@@ -10,7 +10,7 @@ Bu proje, trafik kazalarını gerçek zamanlı olarak tespit ederek, olayın şi
 
 ## Gerekli Donanımlar
 - Raspberry Pi 5
-- Raspberry Pi Kamera Modülü
+- Raspberry Pi Kamera Modül 3
 - LED (2 adet)
 - Buzzer (2 adet)
 - GPIO bağlantı kabloları
