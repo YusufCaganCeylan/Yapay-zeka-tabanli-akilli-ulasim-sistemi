@@ -1,0 +1,6 @@
+ultralytics==8.3.57
+opencv-python
+numpy
+gpiozero
+picamera2
+signal
